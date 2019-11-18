@@ -1,0 +1,10 @@
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\bin\Debug\SEB_Projektas.exe.config
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\bin\Debug\SEB_Projektas.exe
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\bin\Debug\SEB_Projektas.pdb
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.csprojAssemblyReference.cache
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.Properties.Resources.resources
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.csproj.GenerateResource.cache
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.csproj.CoreCompileInputs.cache
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.exe
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.pdb
+C:\Users\astuk\Desktop\ENTER\Simui\SEB_Projektas\SEB_Projektas\obj\Debug\SEB_Projektas.IBANTikrinimas.resources
